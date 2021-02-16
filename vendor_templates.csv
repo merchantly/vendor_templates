@@ -1,0 +1,10 @@
+id,name,image,vendor_id,archived_at,description,position,created_at,updated_at,is_test
+2,Clothing store,fc1663b9-52e6-4e92-9f42-590fa81f9b45.png,24,,Great for limited collection with choice of size and material.,7,2019-02-28 10:07:30.69391,2019-02-28 10:09:31.426008,f
+3, Minimalism,a12f59de-c191-4662-a82b-7b766d0ffc3d.png,27,,Shop jewelry in the style of minimal. Nothing extra.,6,2019-02-28 10:31:50.679478,2019-02-28 10:31:50.679478,f
+1,Shop,open-uri20190227-13926-pqr5da,29,,Design that will easily change,1005,2019-02-27 20:53:34.680527,2019-02-28 10:56:00.6181,f
+6,Grocery store,ce929841-95f4-4090-ada6-d35ff4ea62a2__1_.png,39,,Convenient and simple design. Sale of goods by weight.,3,2019-02-28 12:17:05.637616,2019-02-28 12:17:05.637616,f
+7,Universal,45dbf3b2-191a-44b1-bc95-753688a7108e.png,38,,Design that is easy to change. Suitable for the sale of any goods,2,2019-02-28 12:32:28.421012,2019-02-28 12:32:28.421012,f
+8,Backpacks,1.png,40,,Template for stores of backpacks | children's clothing | toys,1,2019-02-28 12:57:35.265304,2019-03-01 08:25:38.987974,f
+4,Jewelery,ea68ac64-8dfb-42d5-b2a2-a0893a157adc.png,36,,Light pattern. Ideal for jewelry.,5,2019-02-28 11:33:48.429535,2019-03-01 11:28:32.806155,f
+5, Dark side,5e6a0f7d-18b3-4a92-8e02-bb6416afef3d.png,33,,Store in black. Suitable for stylish products.Very good.,4,2019-02-28 11:37:43.908108,2019-03-01 11:29:52.257431,f
+9,Cafe/Restaurant,cafe.png,162,,For your small restaurant or cafe,9,2020-06-19 13:48:38.868395,2020-06-19 13:48:38.868395,f

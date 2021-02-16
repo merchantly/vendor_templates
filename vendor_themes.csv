@@ -1,0 +1,130 @@
+id,vendor_id,custom_body_class,theme_template_key,category_product_columns,custom_style,custom_style_format,created_at,updated_at,mstile_color,category_product_rows,category_filter_visible,mainpage_product_rows,page_bg,page_bg_color,feed_bg_color,feed_transparency,font_family,font_color,font_size,mainpage_filter_visible,mainpage_product_columns,product_image_position,banner_visible,slider_visible,active_elements_color,w1_widget_visible,w1_widget_ptenabled,show_short_details,show_similar_products,is_welcome_random,show_cart_button_in_list,show_quantity_in_list,show_pagination_on_welcome,show_children_products_on_welcome,engine
+5,27,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-02-27 20:57:14.36405,,3,t,3,,#ffffff,#ffffff,0,helvetica,#000000,md,t,3,aside,t,t,#000000,f,"",t,t,f,t,f,t,f,react
+16,38,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-02-27 20:57:14.36405,,3,t,3,,#ffffff,#ffffff,0,helvetica,#000000,md,t,3,aside,t,t,#000000,f,"",t,t,f,t,f,t,f,react
+14,36,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-03-01 08:49:07.590864,,3,t,3,,#ffffff,#ffffff,0,helvetica,#000000,md,t,2,aside,t,t,#000000,f,"",t,t,f,t,f,t,f,react
+17,39,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-03-01 08:43:45.885995,,3,t,3,,#ffffff,#ffffff,0,helvetica,#000000,md,t,3,aside,t,t,#6c7a89,f,"",t,t,f,t,t,t,f,react
+7,29,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-03-01 09:07:50.884487,,3,t,10,,#ffffff,#ffffff,0,helvetica,#000000,md,t,4,aside,t,t,#000000,f,"",t,t,f,t,f,t,f,react
+11,33,"",white,3,,SCSS,2019-02-27 20:21:42.739514,2019-03-01 09:21:34.275987,#000000,3,t,3,,#000000,#000000,0,helvetica,#ffffff,lg,t,3,aside,t,t,#ff2424,f,"",t,t,f,t,f,t,f,react
+18,40,,white,3,,SCSS,2019-02-27 20:21:42.739514,2019-03-01 08:21:53.634769,,3,t,3,,#ffffff,#ffffff,0,lora,#000000,md,t,3,aside,t,t,#6c7a89,f,"",t,t,f,t,f,t,f,react
+2,24,,white,3,".b-page__content__inner_navbar {
+    margin-top: 0px;
+}
+
+.b-header{
+  background-color: #000000;
+  color: white;
+}
+.b-header__logo {
+    max-width: 300px;
+}
+
+
+
+.b-page .element--active-opacity:hover {
+    background-color: red;
+}
+
+
+.b-nav .b-nav__item a{    
+  padding: 1px 39px;}
+
+
+.b-page__content__inner_navbar .b-nav > .b-nav__list > .b-nav__item > .b-nav__link {
+  padding-bottom: 30px;
+}
+nav.b-nav{
+max-width: 1050px;
+}
+
+
+a.b-nav__link{
+font-weight:bold;
+}
+.b-nav__link:hover{
+  color: red; 
+  font-weight: bold;
+}
+
+
+.b-nav__list{
+border-top: none;
+border:none;
+}
+
+.lead-text__content {
+border-top: none;
+border-bottom: none;
+}
+
+
+
+.b-item__price {
+font-weight: bold;
+}
+
+.b-item-full__title {
+font-size: 16px;
+}
+
+.Clientbar a .Bubble-count{ 
+background-color: red; 
+color: white; 
+}
+
+
+
+article.b-article .b-text{
+      max-width: inherit;
+}
+
+
+.b-item-full .b-status{ 
+color: red; 
+}
+
+.b-item-list__item .b-item__status .b-status_sale{ 
+color: red; 
+}
+
+.b_item_price_sale{
+  color: red;
+}
+
+
+
+footer{
+height: 100%!important;
+}
+
+.b-footer__nav_main {
+width: 70%;
+}
+
+.b-footer__nav_soc {
+width: 30%;
+}
+
+footer{
+    background-color: #000000; 
+  margin-top: 30px;
+  max-width: 3000px;
+  color: white;
+  
+ }
+
+.b-page__content__inner_footer {
+    margin-bottom: 0px;
+    padding-top: 0;
+}",SCSS,2019-02-27 20:21:42.739514,2019-03-01 09:17:28.437062,,3,t,3,,#ffffff,#ffffff,0,helvetica,#000000,md,t,3,aside,t,t,#000000,f,"",t,t,f,t,f,t,f,react
+139,162,"",white,4,".Clientbar, .b-btn.b-btn_trans, button.b-btn.b-btn-add-cart.element--active-opacity {visibility: hidden;}
+
+.top-banner__content {
+    background-color: #f45a5a;
+    font-size: 19px;
+    text-decoration: underline;
+}
+
+.lead-text__content {
+    padding-left: 0px;
+    padding-right: 0px;
+}",SCSS,2019-02-27 20:21:42.739514,2020-07-05 09:29:41.500912,,8,f,2,,#ffffff,#ffffff,0,helvetica,#000000,lg,f,2,aside,f,t,#000000,f,"",t,f,f,f,f,t,f,react

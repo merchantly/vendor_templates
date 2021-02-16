@@ -1,0 +1,11 @@
+id,vendor_id,position,is_active,created_at,updated_at,link_url,archived_at,width,height,image,link_target,uuid
+1,40,0,t,2019-03-01 08:12:13.606985,2019-03-01 08:19:55.179192,"",2019-03-01 08:19:55.092168,500,200,00093039-8f06-49c1-b6ea-bde063831681.jpg,_blank,3cbe55af-9dff-4b8d-90bd-b415509855c4
+2,40,0,t,2019-03-01 08:20:03.301237,2019-03-01 08:20:03.301237,"",,940,490,00093039-8f06-49c1-b6ea-bde063831681__1_.jpg,_blank,afda2fbc-a186-4af6-a355-1d8259207d2e
+3,38,0,t,2019-03-01 08:30:30.939731,2019-03-01 08:30:30.939731,"",,940,488,c9add4a7-9209-40d9-ad9b-df6ac22b84b5.jpg,_blank,d899acdf-c070-48bd-b234-38ee945e8b6d
+4,36,0,t,2019-03-01 08:48:52.532297,2019-03-01 08:48:52.532297,"",,940,453,868b0110-e1dd-4b32-90eb-879731da1c2f.jpg,_blank,2996cce0-ca3e-430a-b5f4-4d534c7ed47b
+90,162,0,t,2020-05-25 08:56:24.192268,2020-06-19 11:40:42.832163,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,2020-06-19 11:40:42.604701,1606,640,Skrinshot_2020-05-25_115440.png,_blank,8fbe83ab-cd53-4f7e-80c7-877db604d394
+91,162,4194304,t,2020-05-25 09:03:52.273733,2020-06-19 11:40:45.313829,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,2020-06-19 11:40:45.164382,1610,650,Skrinshot_2020-05-25_120302.png,_blank,7a94c431-04ea-48e2-805b-e3d8139d8c7a
+92,162,6291456,t,2020-05-25 09:04:47.762395,2020-06-19 11:40:47.549667,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,2020-06-19 11:40:47.401369,1614,647,Skrinshot_2020-05-25_120428.png,_blank,b7c6d5fc-8865-487f-bd23-a87b45ceb56a
+94,162,0,t,2020-06-19 11:40:59.230954,2020-06-19 12:06:56.594551,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,,940,300,Banner1.png,_blank,a394ccbc-9392-41e7-88f2-bba43482ccc3
+95,162,4194304,t,2020-06-19 11:41:12.740066,2020-06-19 12:07:03.109843,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,,940,300,Banner2.png,_blank,973d078b-6cee-43f8-b134-38dda3e2e95d
+96,162,6291456,t,2020-06-19 11:41:24.504493,2020-06-19 12:07:09.182148,https://shop-6999de.constructor.avalab.io/pages/24-geidea-online-ordering-solution,,940,300,Banner3.png,_blank,96ca3b63-b7c5-41eb-b17f-42ace2c0874a
